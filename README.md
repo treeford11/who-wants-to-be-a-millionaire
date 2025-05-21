@@ -1,2 +1,79 @@
-# Web-Quiz-Game
-Who Wants To Be A Millionaire is an interactive web quiz game inspired by the famous TV show. Built with HTML5, CSS3, JavaScript, PHP, and JSON, it features animated lifelines, real-time scoring, and a responsive, multi-device interface (keyboard, touchscreen, mouse, and gamepad).
+# Who Wants To Be A Millionaire
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/issues)
+[![GitHub stars](https://img.shields.io/github/stars/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/network/members)
+
+**Who Wants To Be A Millionaire** is an interactive web quiz game that replicates the iconic TV show format. Answer multiple-choice questions to win increasingly higher prizes, and use lifelines like 50/50 and Switch to improve your odds. Built with HTML5, CSS3 (with Bootstrap), JavaScript, PHP, and JSON, the game supports touchscreen, keyboard, mouse, and gamepad inputs—and even saves high scores!
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **Interactive Quiz:** Answer multiple-choice questions based on a prize ladder.
+- **Lifelines:** Use lifelines like 50/50 (eliminates two wrong answers) and Switch (changes the current question without advancing your prize level).
+- **Responsive Design:** Fully adapts to desktop, tablet, and mobile screens.
+- **Multi-Device Compatibility:** Supports touchscreen, keyboard, mouse, and gamepad inputs.
+- **Record Saving:** Save and view high scores using PHP and JSON.
+- **Animated Effects:** Engaging animations and transitions make gameplay exciting.
+
+## Technologies
+
+- **HTML5**
+- **CSS3** (with Bootstrap for responsive design)
+- **JavaScript** (vanilla for game logic and interactivity)
+- **PHP** (for back-end record saving)
+- **JSON** (for storing questions and high scores)
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire.git
+
+
+2. Open the project folder.
+3. Ensure your PHP-enabled server (e.g., Apache) is running.
+4. Set write permissions on `record.json` if necessary.
+5. Open `index.html` in your browser or host the project on your local server.
+
+## Usage
+
+- Navigate to the Home page.
+- When prompted, enter your name to start the game.
+- Answer multiple-choice questions to climb the prize ladder.
+- Use lifelines:
+  - **50/50:** Eliminates two incorrect answers.
+  - **Switch:** Replaces the current question without advancing the prize level.
+- Click **Quit** to retire and claim your current winnings.
+- Save your record at the end of the game.
+- View high scores on the Records page.
+
+## Contributing
+
+Contributions, bug reports, and suggestions are welcome! Please fork the repository, submit pull requests, or open issues for feedback and improvements.
+
+## License
+
+This project is licensed under the GPLv3 License. See the LICENSE file for details.
+
+## Contact
+
+- GitHub: [bocaletto-luca](https://github.com/bocaletto-luca)
+- Demo Site: [https://bocaletto-luca.github.io](https://bocaletto-luca.github.io)
+- Alternate Site: [https://bocalettoluca.altervista.org](https://bocalettoluca.altervista.org)
+
+**Topics:**  
+web, quiz, millionaire, interactive, game, responsive, javascript, html, css, php, json, bootstrap
+
+Enjoy playing **Who Wants To Be A Millionaire** and feel free to customize it further!
