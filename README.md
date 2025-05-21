@@ -76,8 +76,8 @@ This project is licensed under the GPLv3 License. See the LICENSE file for detai
 ## Contact
 
 - GitHub: [bocaletto-luca](https://github.com/bocaletto-luca)
-- Demo Site: [https://bocaletto-luca.github.io](https://bocaletto-luca.github.io)
-- Alternate Site: [https://bocalettoluca.altervista.org](https://bocalettoluca.altervista.org)
+- Github Site: [https://bocaletto-luca.github.io](https://bocaletto-luca.github.io)
+- Official Site: [https://bocalettoluca.altervista.org](https://bocalettoluca.altervista.org)
 
 **Topics:**  
 web, quiz, millionaire, interactive, game, responsive, javascript, html, css, php, json, bootstrap
