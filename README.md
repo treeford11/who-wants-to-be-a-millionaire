@@ -1,9 +1,16 @@
 # Who Wants To Be A Millionaire
+#### Author: Bocaletto Luca
 
-
-[![GitHub issues](https://img.shields.io/github/issues/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/issues)
-[![GitHub stars](https://img.shields.io/github/stars/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/network/members)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![Project Completed](https://img.shields.io/badge/Project_Completed-green.svg)]()
+[![Project Tested](https://img.shields.io/badge/Project_Tested-Success-brightgreen.svg)]()
+[![Multi-device](https://img.shields.io/badge/Multi--Device-Enabled-blue.svg)]()
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet.svg)]()
 
 **Who Wants To Be A Millionaire** is an interactive web quiz game that replicates the iconic TV show format. Answer multiple-choice questions to win increasingly higher prizes, and use lifelines like 50/50 and Switch to improve your odds. Built with HTML5, CSS3 (with Bootstrap), JavaScript, PHP, and JSON, the game supports touchscreen, keyboard, mouse, and gamepad inputs—and even saves high scores!
 
