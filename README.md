@@ -1,6 +1,6 @@
 # Who Wants To Be A Millionaire
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![GitHub issues](https://img.shields.io/github/issues/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/issues)
 [![GitHub stars](https://img.shields.io/github/stars/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/bocaletto-luca/who-wants-to-be-a-millionaire)](https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire/network/members)
@@ -10,7 +10,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
